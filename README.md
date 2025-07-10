@@ -10,6 +10,7 @@ O presente documento propõe o desenvolvimento de um módulo de gestão de event
 O módulo permitirá:
 
 Cadastro de eventos com informações como título, descrição, data, local, palestrante e vagas disponíveis;
+<img width="508" height="285" alt="image" src="https://github.com/user-attachments/assets/7f34f072-c970-44a6-8126-b9d66ddd679f" />
 
 Inscrição de participantes nos eventos;
 
