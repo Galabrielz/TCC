@@ -14,7 +14,7 @@ Para que a mentoria seja eficaz, é necessário garantir o máximo de compatibil
 Criar um sistema web que conecte mentorados e mentores de forma inteligente utilizando o algoritmo KNN.
 
 # Objetivos Específicos:
-•	Desenvolver uma API REST em Flask;
+•	Desenvolver uma API REST em Flask; </n>
 •	Implementar um algoritmo KNN utilizando scikit-learn;
 •	Integrar o backend com um frontend em React;
 •	Permitir o cadastro, visualização e recomendação de mentores;
