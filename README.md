@@ -62,9 +62,9 @@ Sistema de mentoria com lógica de recomendação baseada em aprendizado supervi
 •	RF02: Escalabilidade para futuras melhorias.  
 •	RF03: Segurança no armazenamento dos dados.
 
-<img width="591" height="518" alt="image" src="https://github.com/user-attachments/assets/9d26f4b6-f222-4394-95e8-e35c6577f187" />
+<img width="591" height="518" alt="image" src="https://github.com/user-attachments/assets/9d26f4b6-f222-4394-95e8-e35c6577f187" />  
 
-<img width="580" height="539" alt="image" src="https://github.com/user-attachments/assets/0db2eee3-ed83-4d32-8b9a-ed34890781a7" />
+<img width="580" height="539" alt="image" src="https://github.com/user-attachments/assets/0db2eee3-ed83-4d32-8b9a-ed34890781a7" />  
 
 <img width="276" height="287" alt="image" src="https://github.com/user-attachments/assets/3e447011-17c6-4544-8c3b-870c9379d86a" />
 
