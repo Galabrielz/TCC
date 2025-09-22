@@ -1,5 +1,5 @@
 # Resumo
-Este documento descreve a proposta de um sistema de mentoria acadêmica que utiliza um algoritmo de recomendação com base em aprendizado de máquina. A solução visa facilitar a conexão entre mentorados e mentores, utilizando o algoritmo K-Nearest Neighbors (KNN) para sugerir os perfis mais compatíveis com base em curso, área de interesse e disponibilidade. O projeto aborda desde o contexto educacional até a arquitetura técnica da aplicação, com destaque para a implementação da lógica de recomendação baseada em IA.
+Este documento descreve a proposta de um sistema de mentoria acadêmica que utiliza algoritmos de aprendizado de máquina para recomendar mentores compatíveis com base em curso, área de interesse, disponibilidade e instituição. A solução visa facilitar a conexão entre mentorados e mentores, contribuindo para reduzir evasão e desengajamento acadêmico, além de promover acompanhamento mais individualizado.
 
 # 1. Introdução
 # Contexto
@@ -23,7 +23,7 @@ Criar um sistema web que conecte mentorados e mentores de forma inteligente util
 # 2. Descrição do Projeto
 
 # Tema do Projeto
-Sistema de mentoria com lógica de recomendação baseada em aprendizado supervisionado por meio do algoritmo KNN, com foco na afinidade entre os usuários.
+Sistema de mentoria acadêmica com lógica de recomendação baseada em aprendizado supervisionado, utilizando diferentes abordagens de recomendação. O foco é encontrar afinidade entre mentores e mentorados para melhorar a conexão e reduzir a evasão acadêmica.
 
 # Problemas a Resolver
 •	Conexão manual e desorganizada entre mentores e mentorados;  
@@ -99,7 +99,7 @@ Sistema de mentoria com lógica de recomendação baseada em aprendizado supervi
 
 # Frameworks e Bibliotecas:
 •	Flask (API);  
-•	scikit-learn (KNN para recomendação);  
+•	scikit-learn (Random Forest e KNN para recomendação);  
 •	SQLAlchemy (ORM);  
 •	React (UI);  
 •	Bootstrap (estilo);  
@@ -116,20 +116,6 @@ Sistema de mentoria com lógica de recomendação baseada em aprendizado supervi
 •	Token JWT para sessões seguras;  
 •	CORS restrito ao frontend;  
 •	Validação de entrada e sanitarização de dados.
-
-# 4. Próximos Passos
-
-# Portfólio I:
-•	Finalizar modelagem de dados;  
-•	Criar backend Flask com conexão MySQL;  
-•	Criar algoritmo de recomendação com scikit-learn;  
-•	Testar integração com frontend.
-
-# Portfólio II:
-•	Completar o CRUD e os fluxos de agendamento e feedback;  
-•	Melhorar interface;  
-•	Testes finais e validação com usuários reais;  
-•	Documentar e preparar apresentação.
 
 # 5. Referências
 •	Documentação oficial do scikit-learn: https://scikit-learn.org/stable/Flask documentation;  
