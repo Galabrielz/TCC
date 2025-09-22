@@ -65,7 +65,7 @@ Sistema de mentoria acadêmica com lógica de recomendação baseada em aprendiz
 <img width="591" height="518" alt="image" src="https://github.com/user-attachments/assets/9d26f4b6-f222-4394-95e8-e35c6577f187" />  
 
 <img width="580" height="539" alt="image" src="https://github.com/user-attachments/assets/0db2eee3-ed83-4d32-8b9a-ed34890781a7" />  
-
+/n
 <img width="276" height="287" alt="image" src="https://github.com/user-attachments/assets/3e447011-17c6-4544-8c3b-870c9379d86a" />
 
 # 3.2. Considerações de Design
